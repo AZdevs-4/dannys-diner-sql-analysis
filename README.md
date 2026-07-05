@@ -1,6 +1,6 @@
 # 🍜 Case Study: Danny's Diner SQL Business Intelligence Project
 
-📊 1. Executive Project Overview
+📊 1. Executive Project  
 In competitive hospitality management, data-driven strategy forms the operational core of sustainable business growth. Danny's Diner is a specialized Japanese restaurant capturing data across core customer touchpoints, but it lacks a centralized, analytical overview to synthesize user behavior, spending habits, visit distributions, and loyalty member engagement.
 
 This project serves as a structured business intelligence case study designed to reverse-engineer restaurant transaction patterns. By analyzing individual financial metrics, food affinity hierarchies, and timeline milestones before and after loyalty program enrollment, these queries provide actionable insights to optimize the menu, improve customer experiences, and scale high-margin offerings.
