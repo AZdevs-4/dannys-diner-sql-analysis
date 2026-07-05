@@ -1,8 +1,5 @@
-# dannys-diner-sql-analysis
-A data-driven case study using MySQL to analyze customer visiting patterns, spending habits, and loyalty program performance for a fictional restaurant.
+# 🍜 Case Study #1 - Danny's Diner
 
-
-🍜 Case Study #1 - Danny's Diner
 📊 Business Task
 Danny wants to use data to answer a few simple questions about his customers—specifically about their visiting patterns, how much money they’ve spent, and which menu items are their favorites. This documentation contains the exact SQL solutions developed to extract these insights.
 
