@@ -25,3 +25,23 @@ Loyalty Program Impact: Evaluating performance timelines by tracking specific pu
 
 🗺️ 4. Relational Database Schema Structure
 The underlying database architecture utilizes a normalized 3-table star schema designed to minimize data redundancy while maintaining optimal execution speeds.
+
+erDiagram
+    sales {
+        varchar customer_id FK
+        date order_date
+        integer product_id FK
+    }
+    menu {
+        integer product_id PK
+        varchar product_name
+        integer price
+    }
+    members {
+        varchar customer_id PK
+        date join_date
+    }
+    sales }|--|| menu : product_id
+    sales }|--|| members : customer_id
+🗺️ 4. Relational Database Schema Structure
+The underlying database architecture utilizes a normalized 3-table star schema designed to minimize data redundancy while maintaining optimal execution speeds.
